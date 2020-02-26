@@ -1,0 +1,9 @@
+google-api-python-client
+oauth2client
+pandas
+numpy
+asyncio
+aiohttp
+seaborn
+matplotlib
+sklearn
